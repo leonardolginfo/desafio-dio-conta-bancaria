@@ -20,4 +20,4 @@ Nos próximos commits, o projeto será atualizado para seguir os princípios de 
 ## Como Executar o Projeto
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/leonardolginfo/desafio-dio-conta-bancaria/
